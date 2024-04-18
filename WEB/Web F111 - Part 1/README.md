@@ -14,5 +14,5 @@
 ## Flag
 
 ```
-cruXcrypt{7ru1y_4_z3r0d4y_0f_0ur_t1m3}
+cruXcrypt{c0ngr4tul4t10n5_y0u_4r3_n0t_4_r0b0t}
 ```
