@@ -8,7 +8,7 @@
 
 - We get the flag just by visiting the endpoint.
 
-> **Note**
+> [!NOTE]
 > They forgot to add the robots.txt endpoint initially so we had to remind them xD
 
 ## Flag
